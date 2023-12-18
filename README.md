@@ -1,5 +1,7 @@
 # Dashboard-for-Alif-Printers
 
+Alif Printing is a printing industry services company with around 50 employees It provides innovative printing solutions and technology to corporate clients Positions itself on product leadership, data security and industry expertise Project Scope.
+
 *Overall:
 ![image](https://github.com/KhaleefZ/Dashboard-for-Alif-Printers/assets/133394955/6773b5f8-3bb9-461f-ac4e-e2d560050a1f)
 
